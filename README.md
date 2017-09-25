@@ -1,6 +1,6 @@
 # bookstore-angular
 
-Redis
-Material UI
-Angular
-Spring MVC
+- Redis <br>
+- Material UI <br>
+- Angular <br>
+- Spring MVC
